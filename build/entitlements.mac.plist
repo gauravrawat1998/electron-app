@@ -8,7 +8,9 @@
     <true/>
     <key>com.apple.security.cs.allow-dyld-environment-variables</key>
     <true/>
-    <key>NSPrivacyAccessedAPICategoryScreenCapture</key>
-    <string>NSPrivacyAccessedAPICategoryScreenCapture</string>
+    <!-- <key>NSPrivacyAccessedAPICategoryScreenCapture</key>
+    <string>NSPrivacyAccessedAPICategoryScreenCapture</string> -->
+    <key>NSWindowSharingEnabled</key>
+    <false/>
   </dict>
 </plist>

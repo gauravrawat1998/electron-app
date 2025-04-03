@@ -25,7 +25,8 @@
     "@electron-toolkit/utils": "^4.0.0",
     "axios": "^1.8.4",
     "electron-updater": "^6.3.9",
-    "react-router-dom": "^7.4.0"
+    "react-router-dom": "^7.4.0",
+    "react-simple-keyboard": "^3.8.57"
   },
   "devDependencies": {
     "@electron-toolkit/eslint-config-prettier": "^3.0.0",

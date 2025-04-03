@@ -169,3 +169,33 @@ code {
     display: none;
   }
 }
+
+.event-page {
+  padding: 20px;
+}
+.event-page input {
+  width: 100%;
+  padding: 20px 20px;
+  border-radius: 10px;
+  font-size: 20px;
+  border: 1px solid #fff;
+  background: transparent;
+  color: #fff;
+}
+
+.event-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-top: 40px;
+}
+
+.simple-keyboard {
+  /* max-width: 1000px; */
+}
+
+.hg-button {
+  span {
+    color: #000;
+  }
+}
